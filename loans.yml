@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome"
   contactDetails:
-    name: "Musk - QA - Loans"
-    email: "musk@eazybank.com"
+    name: "Morris - Loans"
+    email: "morris@eazybank.com"
   onCallSupport:
     +49 15210529204
