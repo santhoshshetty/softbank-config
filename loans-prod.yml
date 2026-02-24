@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome"
   contactDetails:
-    name: "Travis Mend - Prod - Loans"
+    name: "Travis Mend - Production - Loans"
     email: "travis@eazybank.com"
   onCallSupport:
     +49 15210529204
